@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to the Cambridge Python User Group
 
-You can use the [editor on GitHub](https://github.com/campug/campug.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the very start of a home page for CamPUG, the Cambridge Python User Group.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That's the Cambridge in Cambridgeshire, England.
 
-### Markdown
+We meet once a month, normally on the first Tuesday, and normally at the Raspberry Pi Foundation offices, 30 Station Road, Cambridge, CB1 2JH. Meetings are from 7pm until 9pm, and afterwards some of us normally go on to the pub.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Thanks to the Ben Nuttall of the Raspberry Pi Foundation for allowing us to use their meeting room.**
 
-```markdown
-Syntax highlighted code block
+For the moment, here are some useful links:
 
-# Header 1
-## Header 2
-### Header 3
+* We have a [code of conduct](https://github.com/campug/organisational/blob/master/CodeOfConduct.rst). Please read it.
+* Our main information resource is [CamPUG on meetup.com](https://www.meetup.com/CamPUG) - go there to find out about current and future meetings.
+* Ben Nuttall sometimes tweets for us - see https://twitter.com/campython
+* In theory we have a [Google Group](https://groups.google.com/forum/#!forum/campug), but it has been inactive for a little while.
+* We're just about to announce a slack channel - come back soon to find out more.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/campug/campug.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
