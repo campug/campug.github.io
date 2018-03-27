@@ -16,7 +16,7 @@ For the moment, here are some useful links:
 
 * We have a [code of conduct](https://github.com/campug/organisational/blob/master/CodeOfConduct.rst). Please read it.
 * Our main information resource is [CamPUG on meetup.com](https://www.meetup.com/CamPUG). Go there to find out about current and future meetings.
-* Ben Nuttall sometimes tweets for us. See https://twitter.com/campython
+* Ben Nuttall sometimes tweets for us. See [https://twitter.com/campython](https://twitter.com/campython)
 * In theory we have a [Google Group](https://groups.google.com/forum/#!forum/campug), but it has been inactive for a little while.
 * We're just about to announce a slack channel - come back soon to find out more.
 
