@@ -16,10 +16,10 @@ We meet on the first Tuesday of each month, normally at the Raspberry Pi Foundat
 
 **Thank you to Ben Nuttall and the Raspberry Pi Foundation for use of the meeting room and facilities.**
 
-For the moment, here are some useful links:
+Other useful links:
 
 * We have a [code of conduct](https://github.com/campug/organisational/blob/master/CodeOfConduct.rst) which describes what is or is not acceptable behaviour of members. Basically, be kind and considerate of others. Please read it. It applies to meetings and to our various online media.
-* Our main information resource is [CamPUG on meetup.com](https://www.meetup.com/CamPUG). Go there to find out about current and future meetings. See [How we use meetup](https://campug.github.io/how-we-use-meetup.html) for more information on RSVPing and how we use attendance numbers.
+* See [How we use meetup](https://campug.github.io/how-we-use-meetup.html) for more information on RSVPing and how we use attendance numbers.
 * Ben Nuttall sometimes tweets for us. See [https://twitter.com/campython](https://twitter.com/campython)
-* In theory we have a [Google Group](https://groups.google.com/forum/#!forum/campug), but it has been inactive for a little while.
+* In theory we have a [Google Group](https://groups.google.com/forum/#!forum/campug), but it has been inactive for a while.
 * We're just about to announce a slack channel - come back soon to find out more.
