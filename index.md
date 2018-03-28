@@ -23,3 +23,4 @@ Other useful links:
 * Ben Nuttall sometimes tweets for us. See [https://twitter.com/campython](https://twitter.com/campython)
 * In theory we have a [Google Group](https://groups.google.com/forum/#!forum/campug), but it has been inactive for a while.
 * We're just about to announce a slack channel - come back soon to find out more.
+* See [UK Python News](http://uk.python.org/) for news about Python around the UK, including upcoming conferences. This is a really useful resource, and you can subscribe to it as a monthly email.
