@@ -4,8 +4,6 @@ title: Welcome to CamPUG
 
 ## Welcome to the Cambridge Python User Group
 
-This is the very start of a home page for CamPUG, the Cambridge Python User Group.
-
 That's the Cambridge in Cambridgeshire, England.
 
 We get together once a month to talk about anything related to the Python programming language.
@@ -14,7 +12,7 @@ Anyone who is interested in Python is welcome, whatever your level of knowledge 
 
 We meet on the first Tuesday of each month, normally at the Raspberry Pi Foundation offices, 30 Station Road, Cambridge, CB1 2JH. Meetings are from 7pm until 9pm, and afterwards some of us go on to the pub.
 
-**Thanks to the Ben Nuttall of the Raspberry Pi Foundation for allowing us to use their meeting room.**
+**Thank you to Ben Nuttall and the Raspberry Pi Foundation for use of the meeting room and facilities.**
 
 For the moment, here are some useful links:
 
