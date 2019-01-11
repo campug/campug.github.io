@@ -10,7 +10,7 @@ We get together once a month to talk about anything related to the Python progra
 
 Anyone who is interested in Python is welcome, whatever your level of knowledge (we're very happy to help with questions from those just learning the language), and for whatever purpose you use it.
 
-We meet on the first Tuesday of each month, normally at the Raspberry Pi Foundation offices, 30 Station Road, Cambridge, CB1 2JH. Meetings are from 7pm until 9pm, and afterwards some of us go on to the pub.
+We meet on the first Tuesday of each month, normally at the Raspberry Pi Foundation offices, 37 Hills Rd, Cambridge, CB2 1NF. Meetings are from 7pm until 9pm, and afterwards some of us go on to the pub.
 
 [Find out about our meetings at meetup.com](https://www.meetup.com/CamPUG).
 
