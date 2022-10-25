@@ -21,5 +21,5 @@ Other useful links:
 * We have a [Code of Conduct](https://github.com/campug/organisational/blob/master/CodeOfConduct.rst) which describes what is or is not acceptable behaviour of members. Basically, be kind and considerate of others. Please read it. It applies to meetings and to our various online media.
 * See [How we use meetup](https://campug.github.io/how-we-use-meetup.html) for more information on RSVPing and how we use attendance numbers.
 * Events are also tweeted out on our feed - see [@campython](https://twitter.com/campython)
-* Feel free to join [CamPUG Slack](https://join.slack.com/t/campug/shared_invite/enQtMzM2NjcwMzM2ODM2LTQyMmQ5MmVlZGMxMzBhOGQ0MTQ1ZGMyMTkzYjc1MWQzM2M2ZDViZDc5NDEyYmViY2QyNWJlMjg2ZTkwNzc3NjM) where announcements are also made and Python jobs are shared.
+* Feel free to join the [CamPUG Slack](https://campug.slack.com/) where announcements are also made and Python jobs are shared - details on how to join at each Meetup.
 * See [UK Python News](http://uk.python.org/) for news about Python around the UK, including upcoming conferences. This is a really useful resource, and you can subscribe to it as a monthly email.
